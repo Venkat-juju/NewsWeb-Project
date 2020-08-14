@@ -1,0 +1,17 @@
+body {
+	background-color: #d9dbd5;
+}
+
+nav {
+	position:sticky;
+}
+
+#content {
+	border: 1px solid black;
+	background-color: white;
+}
+
+.footer {
+  margin: 0px auto;
+  padding: 20px 0px; 
+}
